@@ -249,7 +249,7 @@ input {
 }
 
 .nav__link:hover {
-  color: var(--text-color);
+  color: hsl(36, 100%, 58%);
 }
 
 .nav__close {
